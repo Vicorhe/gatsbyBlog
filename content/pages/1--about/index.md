@@ -1,37 +1,18 @@
 ---
-title: About
+title: Aboot Me
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+### Some Background Info:
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+- **Guangdong, China** | Los Angeles
+- University of California, San Diego
+- Bachelor's degree in Computer Science
+- Class of 2018
+- Area of Focus: Machine Learning X Computer Vision
+- Hobbies: Reef Aquarium Keeping, Audio Books (any reccomendations)
 
-### Standard features:
+### Library:
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifes.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
-
-### Advanced features:
-
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
-
-## Instructions
-
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+- Psycho Cybernetics
+- Daily Stoic
+- 4 Hour Work Week
