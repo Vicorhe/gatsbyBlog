@@ -1,23 +1,19 @@
 ---
 title: Time to Move On
-subTitle: Too Much Time Spent Distracted
+subTitle: It's a Mindset Issue
 cover: avatar.jpg
 ---
 
-I originally intended to build a swiss army knife for activity tracking, journaling, blogging, and online pressence.
+I originally intended this site to be a swiss army knife for activity tracking, journaling, blogging, and establishing an online pressence.
 
-Then I realized I would need to Learn Gatsby, GraphQL, React, ... and maybe after a full weeks' work, I'll come up with a shoddy prototype only to abort the project for another 7 weeks.
+Then I realized I would need to learn Gatsby, GraphQL, React, ... and maybe after a full weeks' work, I'll come up with a shoddy prototype only to abort the project for another 7 weeks.
 
 **No thank you.**
 
-Instead, I went with a habbit training app, a daily journal app, and a workout tracker, and this blog.
+Instead, I settled for a habbit training app, a daily journal app, and a workout tracker app, and this blog.
 
-**I've struggled with the urge to implement everything from scratch in the past.**
+**In the past, I've always struggled with the urge to implement everything from scratch.**
 
-Perhaps, it would vaidate me as true software engineer.
+I would think, perhaps, it would vaidate me as true software engineer.
 
-But, I wasn't solving interesting problems.
-
-Why reinvent the wheel when it is being automated to near perfection aleady.
-
-I rather move on to the juicy stuff.
+And yet, I wouldn't be solving any interesting problems.

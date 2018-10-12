@@ -3,17 +3,16 @@ const colors = require("../../src/styles/colors");
 module.exports = {
   siteTitle: "Victor He Inc.", // <title>
   shortSiteTitle: "Victor He Inc.", // <title> ending for posts and pages
-  siteDescription: "Activity Tracker, Daily Journel, Blog",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteDescription: "Personal Blog",
+  siteUrl: "https://www.victorhe.co",
   pathPrefix: "",
-  siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "victor he",
+  authorName: "Victor He",
   authorTwitterAccount: "vicorhe",
   // info
-  infoTitle: "victor he",
-  infoTitleNote: "company site",
+  infoTitle: "Victor He",
+  infoTitleNote: "Blog",
   // manifest.json
   manifestName: "Victor He Inc.",
   manifestShortName: "PersonalBlog", // max 12 characters
