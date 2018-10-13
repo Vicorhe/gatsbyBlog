@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Victor He** I am a Software Engineer with focus on Machine Learning and Computer Vision.
+**Victor He** is a Machine Learning and Computer Vision Engineer.
