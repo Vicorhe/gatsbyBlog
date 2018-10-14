@@ -1,5 +1,5 @@
 ---
-title: Aboot Me
+title: About Me
 ---
 
 ### Some Background Info:
@@ -8,8 +8,8 @@ title: Aboot Me
 - University of California, San Diego
 - Bachelor's degree in Computer Science
 - Class of 2018
-- Area of Focus: Machine Learning X Computer Vision
-- Hobbies: Reef Aquarium Keeping, Audio Books (any reccomendations)
+- Interests: Machine Learning, Computer Vision
+- Hobbies: Reef Aquarium Keeping, Audio Books
 
 ### Library:
 
