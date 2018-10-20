@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Victor He** is a Machine Learning and Computer Vision Engineer.
+**Victor He** is your friendly neighborhood Machine Learning and Computer Vision Engineer.

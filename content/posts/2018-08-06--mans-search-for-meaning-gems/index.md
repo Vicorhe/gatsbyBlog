@@ -2,7 +2,7 @@
 title: Man's Search for Meaning
 subTitle: Gems
 category: "book gems"
-cover: msfm.jpg
+cover: msfm_thumbnail.jpg
 ---
 
 - An upper middle class professional man appears before the Nazi authority that has occupied his town and shows his credentials: his university degrees, his letters of reference from prominent citizens, and so on. The Nazi asks him, “Is that everything you have?” The man nods. The Nazi throws it all in the wastebasket and tells him: “Good, now you have nothing.” The man, whose self-esteem has always depended on the respect of others, is emotionally destroyed.

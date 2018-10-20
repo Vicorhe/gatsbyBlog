@@ -1,6 +1,5 @@
 ---
-title: Time to Move On
-subTitle: It's a Mindset Issue
+title: Get the Job Done
 cover: avatar.jpg
 ---
 

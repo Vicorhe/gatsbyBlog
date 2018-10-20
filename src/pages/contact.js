@@ -18,7 +18,7 @@ const Contact = () => {
       <Article>
         <PageHeader title="Contact" />
         <Content>
-          Feel free to leave a message and I'll get back to you soon.
+          Leave a message and maybe even a book recomendation.
         </Content>
         <Form />
       </Article>

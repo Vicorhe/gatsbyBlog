@@ -2,7 +2,7 @@
 title: The ONE Thing
 subTitle: Gems
 category: "book gems"
-cover: tot.jpg
+cover: tot_thumbnail.jpg
 ---
 
 - To achieve extraordinary results, one often needs to do less with more focus.
