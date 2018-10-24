@@ -5,15 +5,15 @@ title: About Me
 - University of California, San Diego
 - Bachelor's degree in Computer Science
 - Specialty: Machine Learning and Computer Vision
-- Hobbies: Reef Aquarium Keeping, Audio Books, One Piece
+- Hobbies: Reef Aquariums, Planted Aquariums, Audio Books, One Piece
 - **_NOT LOOKING FOR EMPLOYMENT_**
 
 
 
 ### Library:
 - Daily Stoic
-- The War of Art
 - Einstein His Life and Universe
+- The War of Art
 - ZERO to ONE
 - No More Mr. Nice Guy!
 - Steve Jobs
