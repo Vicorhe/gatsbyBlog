@@ -8,10 +8,10 @@ title: About Me
 - Hobbies: Reef Aquariums, Planted Aquariums, Audio Books, One Piece
 - **_NOT LOOKING FOR EMPLOYMENT_**
 
-
-
 ### Library:
 - Daily Stoic
+- Extreme Ownership
+- Maps of Meaning
 - Einstein His Life and Universe
 - The War of Art
 - ZERO to ONE
