@@ -5,13 +5,13 @@ cover: perservere_thumbnail.jpg
 
 **Glimpse of My Thoughts One Day**
 
-_This is tough, I've never done anything with electical circuits, not to speal of sensors._
+_This is tough, I've never worked with electical circuits, not to speak of sensors._
 
-_This benign tip is having us look into an entirely different direction._
+_This benign tip left us looking into an entirely different approach._
 
-_We've spent the previous two months honing skills in computer vision and machine learning, hoping this will be our vehicle to success._
+_We've spent the previous two months honing skills in computer vision and machine learning, hoping this would be our vehicle to success._
 
-_The proposal does make sense though; it's worth a shot._
+_The proposal does make sense though._
 
 _After all, this is coming from someone with a couple more years' experience in our field._
 
@@ -43,17 +43,17 @@ _Let’s note a couple of search terms._
 
 _And magically, I seem to have gotten out of a rut._
 
-Today is November 5th, the date of my original flight back to the states.
+Today is November 5th, the date of my original flight back to the States.
 
-While holding a job in the States is no easy task, it is packaged with some degree of certainty, in other words, comfort.
+While holding a job in the States is no easy task, it comes with some degree of certainty, in other words, comfort.
 
-Right now, I am blessed to start a business with the complete support of my mother's family.
+Right now, I am blessed to start a business with the complete support of my mother's side of the family.
 
-They know too well what can be acheived once you take on substantial risk, more than one's appetite allows for.
+They know too well what can be acheived once you put everything on the line.
 
 While I've yet to reach a flat out failure, I've yet to accomplish anything either.
 
-Many times, I've contemplated taking the 'easy way' out and settle right for a stable job.
+Many times, I've contemplated taking the 'easy way' out and settle for a stable job.
 
 Today marks the day I sealed that path.
 
@@ -61,6 +61,6 @@ This path will be long, treacherous, vague.
 
 There will be no guarantee of success.
 
-The only guarantee is that it will benifit me, if I give it my true all.
+The only guarantee is that it will benifit me in some way, after I give it my all.
 
 When in doubt, perservere.
