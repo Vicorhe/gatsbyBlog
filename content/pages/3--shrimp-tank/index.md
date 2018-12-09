@@ -4,6 +4,8 @@ title: Shrimp Tank
 
 #Current Fish Tank Shot
 
+![pic 4](dec_9_18_fts.jpg "freezing cold day, 12/09/2018")
+
 ![pic 3](water.jpeg "filling in water, 10/14/2018")
 
 ![pic 2](plants.jpeg "placing first signs of life, 10/14/2018")
@@ -25,7 +27,7 @@ title: Shrimp Tank
 - moss half sphere, ¥15 
 - moss tile, ¥10 
 - plant seeds, ¥16.8 
-- 3 black shrimp, ¥15 
+- ~~3~~1 black shrimp, ¥15 
 - 3 blue shrimp, ¥15 
 - 3 red white shrimp, ¥15 
 - ~~5~~4 yellow shrimp, ¥10 
