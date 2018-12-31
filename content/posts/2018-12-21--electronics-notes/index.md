@@ -69,3 +69,4 @@ voltage regulator — a system designed to automatically maintain a constant vol
 
 gain — in electronics is the measure of the ability of a two port circuit to increase the power or amplitude of a signal from input to the output port by adding energy converted from some power supply to the signal. Can apply to voltage gain, current gain, and power (energy) gain.
 
+open drain output - it is very common in integrated circuits for an output to be open drain. Open drain outputs require pullup resisters in order for the output to be able to properly output high. Otherwise the output pin can only output either low (ground) or float (undefined).
