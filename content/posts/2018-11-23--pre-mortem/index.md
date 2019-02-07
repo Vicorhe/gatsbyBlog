@@ -1,6 +1,6 @@
 ---
 title: Pre Mortem
-category: "business"
+category: "entreprenuership"
 cover: premortem_thumbnail.jpg
 ---
 

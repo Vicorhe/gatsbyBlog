@@ -1,6 +1,6 @@
 ---
 title: How to Connect a Break Beam Sensor to Raspberry Pi
-category: "electronics"
+category: "zombie notes"
 cover: break_beam_thumbnail.jpg
 ---
 

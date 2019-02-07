@@ -1,7 +1,7 @@
 ---
 title: The ONE Thing
 subTitle: Gems
-category: "book gems"
+category: "gems"
 cover: tot_thumbnail.jpg
 ---
 

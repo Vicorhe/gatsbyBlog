@@ -1,5 +1,6 @@
 ---
 title: Super Man with Kryptonite Belt
+category: "self development"
 cover: superman_thumbnail.jpg
 ---
 

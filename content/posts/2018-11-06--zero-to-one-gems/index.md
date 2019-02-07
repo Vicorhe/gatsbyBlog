@@ -1,7 +1,7 @@
 ---
 title: ZERO to ONE
 subTitle: Gems
-category: "book gems"
+category: "gems"
 cover: zto_thumbnail.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Electronics Notes
-category: "notes"
+category: "zombie notes"
 cover: electronics_thumbnail.jpg
 ---
 

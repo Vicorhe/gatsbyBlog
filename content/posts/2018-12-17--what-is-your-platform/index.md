@@ -1,6 +1,6 @@
 ---
 title: What is Your Platform?
-category: "from you I learn"
+category: "entreprenuership"
 cover: platform_thumbnail.jpg
 ---
 

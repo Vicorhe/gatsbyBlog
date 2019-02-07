@@ -1,6 +1,6 @@
 ---
 title: Computer Vision Course Notes
-category: "notes"
+category: "zombie notes"
 cover: cv_thumbnail.jpg
 ---
 

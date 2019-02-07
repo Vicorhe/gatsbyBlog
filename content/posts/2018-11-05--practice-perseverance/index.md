@@ -1,5 +1,6 @@
 ---
 title: Practice Perserverance
+category: "self development"
 cover: perservere_thumbnail.jpg
 ---
 

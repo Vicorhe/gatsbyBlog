@@ -1,7 +1,7 @@
 ---
 title: Man's Search for Meaning
 subTitle: Gems
-category: "book gems"
+category: "gems"
 cover: msfm_thumbnail.jpg
 ---
 

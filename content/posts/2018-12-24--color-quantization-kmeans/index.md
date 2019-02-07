@@ -1,6 +1,6 @@
 ---
 title: Color Quantization w/ KMeans
-category: "notes"
+category: "zombie notes"
 cover: colors_thumbnail.jpg
 ---
 

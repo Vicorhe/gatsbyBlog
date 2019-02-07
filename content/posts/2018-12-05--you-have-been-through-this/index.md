@@ -1,6 +1,6 @@
 ---
 title: You Have Been Through This
-category: "motivation"
+category: "self development"
 cover: you_can_do_it_thumbnail.jpg
 ---
 

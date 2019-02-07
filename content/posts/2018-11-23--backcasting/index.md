@@ -1,6 +1,6 @@
 ---
 title: Backcasting
-category: "business"
+category: "entreprenuership"
 cover: backcasting_thumbnail.jpg
 ---
 
